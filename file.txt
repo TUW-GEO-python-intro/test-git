@@ -1,3 +1,4 @@
 Very important text introduced in master branch.
+Very important text that was changed on branch testing.
 
 Another very important line.
